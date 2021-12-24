@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "432998411105",
+    "project_id": "flywithme-app",
+    "storage_bucket": "flywithme-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432998411105:android:c295054a613630a263f320",
+        "android_client_info": {
+          "package_name": "com.flywithmeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432998411105-ogg6v2icb3goc1hlvpdc0g499bqrqhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00W2ION1_CnXR8CI56TAj1UrLZtY68jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432998411105-ogg6v2icb3goc1hlvpdc0g499bqrqhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432998411105:android:1a7032adab855cf663f320",
+        "android_client_info": {
+          "package_name": "com.proj1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432998411105-ogg6v2icb3goc1hlvpdc0g499bqrqhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00W2ION1_CnXR8CI56TAj1UrLZtY68jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432998411105-ogg6v2icb3goc1hlvpdc0g499bqrqhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
