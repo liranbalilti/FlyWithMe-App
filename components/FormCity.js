@@ -18,7 +18,7 @@ const FormCity = ({onDest}) => {
             }}
             getDefaultValue={ () => ''}
             query={{
-                key: 'AIzaSyDzhVHamXhjX2ZLEkP0td1Qx90TlzAZ8uo',
+                key: 'API Key',
                 language: 'en',
                 types: '(cities)'
             }}
